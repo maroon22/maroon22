@@ -1,10 +1,5 @@
 - 👋 Hi, 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-maroon22/maroon22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in wordpress development 
+- 🌱 I’m currently learning some important plugins which i can use in wordpress websites.
+- 💞️ I’m looking to collaborate on projects of wordpress and social media 
+- 📫 How to reach me through mail or www.afifatech.com
